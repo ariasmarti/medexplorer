@@ -1,0 +1,12 @@
+pandas
+numpy
+nltk
+gensim
+contractions
+streamlit
+plotly
+scikit-learn
+python-dotenv
+ddgs
+openai
+huggingface_hub

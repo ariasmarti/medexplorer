@@ -1,0 +1,23 @@
+# Dataset (demasiado pesado para GitHub)
+medquad.csv
+
+# Artefactos generados por procesar_corpus.py
+*.pkl
+*.model
+*.model.syn1neg.npy
+*.model.wv.vectors.npy
+
+# Variables de entorno
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Windows
+desktop.ini
+Thumbs.db
